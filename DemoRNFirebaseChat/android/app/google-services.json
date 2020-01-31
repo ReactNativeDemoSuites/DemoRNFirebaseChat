@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426163834469",
+    "firebase_url": "https://demornfirebasechat.firebaseio.com",
+    "project_id": "demornfirebasechat",
+    "storage_bucket": "demornfirebasechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426163834469:android:f4f56837cb8fafc29cc08c",
+        "android_client_info": {
+          "package_name": "com.demornfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426163834469-0o2ett6qag4p4n97g3goa5n39ufiehj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demornfirebasechat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "426163834469-t074ibtm1ss797lnevp0gqa3tvjor651.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqd4-eO4ln4Slo6bvEU0yck5wD5mtIkzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426163834469-t074ibtm1ss797lnevp0gqa3tvjor651.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426163834469-mgn87gfubb4drvlsejnbtm12ut3kgtoo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.DemoRNFirebaseChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
